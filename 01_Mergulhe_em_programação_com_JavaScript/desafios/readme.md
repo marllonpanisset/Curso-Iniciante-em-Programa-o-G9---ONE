@@ -1,4 +1,19 @@
-## 🧠 Desafios JavaScript
+# 🧠 Desafios em JavaScript
+
+Este repositório contém uma série de desafios práticos para reforçar os conceitos estudados no curso, utilizando **JavaScript**, com suporte de **HTML** e **CSS**.
+
+🎯 Os desafios são executados diretamente no **console do navegador**, permitindo testar a lógica por meio de interações simples e didáticas.
+
+---
+
+## 🚀 Como executar
+
+1. Clone ou baixe este repositório.
+2. Abra o arquivo `index.html` em um navegador moderno.
+3. Clique no botão **Executar Desafios**.
+4. Abra o **Console** (F12 ou clique direito → "Inspecionar" → aba "Console") para acompanhar os resultados.
+
+---
 
 # Resolução dos desafios do curso de lógica de programação
 
